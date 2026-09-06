@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "BreakPoint",
+    "slug": "breakpoint-tenis",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.breakpoint.tenis"
+    },
+    "android": {
+      "package": "com.breakpoint.tenis"
+    }
+  }
+}
